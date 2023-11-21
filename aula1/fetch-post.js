@@ -3,7 +3,7 @@ const user = {
   "age": 29,
 };
 
-const response = await fetch("http://localhost:3001/", {
+const response = await fetch("http://localhost:3001/test", {
     method: "POST",
     body: JSON.stringify(user)
   }

@@ -1,0 +1,9 @@
+{
+    "nome":"Cidade de Deus",
+    "ano":2002,
+    "artistas":["Alexandre Rodrigues","Leandro Firmino", "Alice Braga"],
+    "diretor":"Fernando Meirelles",
+    "imdb":8.6,
+    "duracao":130,
+    "genero":["drama", "acao"]
+}
